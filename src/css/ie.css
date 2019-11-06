@@ -1,0 +1,12 @@
+.info {
+  display: -ms-flexbox;
+  -ms-flex-pack: center; /* stylelint-disable-line */
+  -ms-flex-align: center; /* stylelint-disable-line */
+}
+
+.uitgelicht_layout {
+  display: -ms-flexbox;
+  -ms-flex-wrap: wrap; /* stylelint-disable-line */
+  -ms-flex-pack: center; /* stylelint-disable-line */
+  -ms-flex-align: center; /* stylelint-disable-line */
+}
